@@ -1,6 +1,5 @@
 Author: Saranya Reddy
 Final Year Project
-Realtime Financial Advisory System
 # 🤖 AI Financial Advisory System
 
 **A Real-Time, Intelligent Financial Analytics Platform powered by Large Language Models and LangGraph.**
