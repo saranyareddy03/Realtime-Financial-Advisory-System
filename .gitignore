@@ -1,0 +1,50 @@
+# Virtual Environments
+venv/
+env/
+.env
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Data Files (excluding sample data if necessary, but generally exclude large datasets)
+data/
+*.csv
+*.json
+*.xlsx
+*.xls
+*.db
+*.sqlite3
+
+# Models (Large binary files)
+models/
+*.h5
+*.pkl
+*.pt
+*.pth
+*.onnx
+*.safetensors
+*.bin
+
+# Logs
+*.log
+logs/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# IDE Specific
+.vscode/
+.idea/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/

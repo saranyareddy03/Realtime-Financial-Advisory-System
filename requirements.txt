@@ -1,0 +1,55 @@
+# ===============================
+# REAL-TIME FINANCIAL ADVISORY SYSTEM
+# Essential Python Dependencies
+# ===============================
+
+# Core Data Science
+pandas
+numpy
+scikit-learn
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Environment Configuration
+python-dotenv
+
+# Financial Data
+yfinance
+
+# AI/ML for Sentiment Analysis
+transformers
+torch
+
+# Portfolio Optimization
+scipy
+
+# LangGraph & LLM
+langgraph
+langchain
+langchain-core
+
+# Google Gemini API
+google-generativeai
+
+# Web Framework
+fastapi
+uvicorn
+streamlit
+
+# HTTP Requests
+httpx
+
+# Data Validation
+pydantic
+
+# Visualization
+plotly
+
+# Utilities
+tqdm
+python-dateutil
+
+# Testing (optional)
+pytest
